@@ -1,6 +1,7 @@
 import Book from './modules/book.js';
 import LocalStorage from './modules/localstorage.js';
 import Interface from './modules/interface.js';
+import { DateTime } from './modules/luxon.js';
 
 document.addEventListener('DOMContentLoaded', Interface.booksDisplay);
 document.getElementById('form').addEventListener('submit', (e) => {
@@ -53,8 +54,7 @@ gethome.addEventListener('click', (e) => {
 
 function clock() {
   const date = document.getElementById('date');
-  const dateToString = new Date().toLocaleString();
-  const dateFormat = dateToString.replace(', ', ' | ');
-  date.textContent = dateFormat;
+  const dateLuxon = DateTime.now().toFormat('LLL dd yyyy, t');
+  date.textContent = dateLuxon;
 }
 setInterval(clock, 1000);
