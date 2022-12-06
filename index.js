@@ -52,9 +52,9 @@ gethome.addEventListener('click', (e) => {
   add.style.display = 'none';
 });
 
-function clock() {
+const clock = () => {
   const date = document.getElementById('date');
   const dateLuxon = DateTime.now().toFormat('LLL dd yyyy, t');
   date.textContent = dateLuxon;
-}
+};
 setInterval(clock, 1000);
