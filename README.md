@@ -5,11 +5,11 @@
   <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome-Booklist-ES6</b></h3>
+  <h2><b>Awesome-Booklist-ES6</b></h2>
 
 </div>
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -28,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Awesome-Booklist <a name="about-project"></a>
+## 📖 Awesome-Booklist <a name="about-project"></a>
 
 > The main objective of this repo is to practice ES6 syntax and modules with a previous project.
 
