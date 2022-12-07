@@ -5,11 +5,11 @@
   <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Awesome-Booklist-ES6</b></h3>
+  <h2><b>Awesome-Booklist-ES6</b></h2>
 
 </div>
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -28,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Awesome-Booklist <a name="about-project"></a>
+## 📖 Awesome-Booklist <a name="about-project"></a>
 
 > The main objective of this repo is to practice ES6 syntax and modules with a previous project.
 
@@ -60,7 +60,7 @@ To get a local copy up and running follow these steps:
 
 2. Clone the repository or download the Zip folder:
 
-    **``git clone https://github.com/HunterX-7/Fashion-Week-page.git``**
+    **``git clone https://github.com/HunterX-7/Awesome-Booklist-ES6.git``**
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ The following test will run automatically as you try to pull request: -Lighthous
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HunterX-7/Awesome-Booklist/issues).
+Feel free to check the [issues page](https://github.com/HunterX-7/Awesome-Booklist-ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
