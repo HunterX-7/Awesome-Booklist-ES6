@@ -60,7 +60,7 @@ To get a local copy up and running follow these steps:
 
 2. Clone the repository or download the Zip folder:
 
-    **``git clone https://github.com/HunterX-7/Fashion-Week-page.git``**
+    **``git clone https://github.com/HunterX-7/Awesome-Booklist-ES6.git``**
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ The following test will run automatically as you try to pull request: -Lighthous
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/HunterX-7/Awesome-Booklist/issues).
+Feel free to check the [issues page](https://github.com/HunterX-7/Awesome-Booklist-ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
