@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 <a name="readme-top"></a>
 
 <div align="center">
@@ -82,7 +81,7 @@ The following test will run automatically as you try to pull request: -Lighthous
 
 - GitHub: [@HunterX-7](https://github.com/HunterX-7)
 - Twitter: [@franquin07](https://twitter.com/franquin07)
-- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cede%C3%B1o/)
+- LinkedIn: [Francisco Quintero](https://www.linkedin.com/in/francisco-asis-quintero-cedeno/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
