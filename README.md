@@ -1,11 +1,9 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Awesome-Booklist-ES6</b></h3>
+  <h1><b>Awesome-Booklist-ES6</b></h1>
 
 </div>
 
